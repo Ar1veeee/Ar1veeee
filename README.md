@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ar1veeee
+- 👋 Hi, I’m Alief Arifin
 - I’m interested in IoT
 - I’m currently learning STMIK SINAR NUSANTARA
 - How to reach me aliefarifin99@gmail.com
