@@ -5,7 +5,7 @@ An independent Software Engineer who loves to create and share projects about we
 I'm currently active in Bangkit Academy as Cloud Computing Student.
 
 - 🌱 I’m currently learning about cloud computing
-- 💬 Feel free to ask me about web development or JavaScript
+- 💬 Feel free to ask me about web development or PHP
 - 📫 How to reach me: aliefarifin99@gmail.com
 
 ### Tech Stack
