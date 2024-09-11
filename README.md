@@ -10,7 +10,7 @@ I'm currently active in Bangkit Academy as Cloud Computing Student.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://www.php.net/images/logos/new-php-logo.svg" /></a>
+  <a href="#"><img align="left" alt="PHP" title="PHP" width="31px" src="https://www.php.net/images/logos/new-php-logo.svg" /></a>
   <br>
   <br>
   
