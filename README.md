@@ -16,7 +16,7 @@ I'm currently active in Bangkit Academy as Cloud Computing Student.
 ### Github Statistic
 <p align="left">
 <a href="[https://github.com/dimasmds](https://github.com/Ar1veeee)">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ar1veeee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ar1veeee&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
