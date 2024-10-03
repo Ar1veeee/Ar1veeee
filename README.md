@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Alief.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed PHP and make it the main language in creating a project.
 
 I'm currently active in Bangkit Academy as Cloud Computing Student.
 
