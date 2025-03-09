@@ -15,6 +15,7 @@ I'm currently active in Bangkit Academy as Cloud Computing Student.
   <a href="#"><img align="left" alt="CI" title="CI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/CodeIgniter_Logo.svg" /></a>
   <a href="#"><img align="left" alt="Laravel" title="Laravel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" /></a>
   <a href="#"><img align="left" alt="Firebase" title="Firebase" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Firebase.svg" /></a>
+  <a href="#"><img align="left" alt="Figma" title="Figma" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /></a>
   <a href="#"><img align="left" alt="Redis" title="Redis" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" /></a>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="#"><img align="left" alt="Nodejs" title="Nodejs" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
