@@ -32,7 +32,7 @@ Like My Work?
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with TS, GO, AWS, etc.
+- 🛠 &nbsp; I’m currently working with PHP, TS, GO, GCP, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring Rust, Automation, etc.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: aliefarfn.dev@gmail.com.
